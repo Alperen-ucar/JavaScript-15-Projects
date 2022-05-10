@@ -1,5 +1,5 @@
 # JavaScript-15-Projects
-**15 JavaScript Projects FreeCodeCamp Course
+**15 JavaScript Projects FreeCodeCamp Course**
 1. Color Flipper
 2. Countdown
 3. Counter
