@@ -16,4 +16,4 @@
 14. Tabs
 15. Video
 
-[Course](https://www.youtube.com/watch?v=3PHXvlpOkf4)
+[Course Link](https://www.youtube.com/watch?v=3PHXvlpOkf4)
